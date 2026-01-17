@@ -1,0 +1,6 @@
+{
+  ""name"": ""rndproj-8m1cs33e"",
+  ""goal"": ""CLI validator for telemetry"",
+  ""language"": ""node"",
+  ""template"": ""node-cli""
+}
